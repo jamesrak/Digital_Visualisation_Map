@@ -5,32 +5,70 @@
 	<meta charset="utf-8">
 	<meta name='viewport' content='initial-scale=1, maximum-scale=1, user-scalable=no' />
 	<title>GHG Emission in UK</title>
-	<link href="./css/style.css" rel="stylesheet" />
-	<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
 	<!--Mapbox GL JS-->
     <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
     <link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />   
 	  <!--D3.js-->
 	  <script src="https://d3js.org/d3.v7.min.js"></script>
+	  <!--Google Chart-->
+	  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	  <!-- Bootstrap -->
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+	<!-- jquery-csv -->
+	<script src="./js/node_modules/jquery-csv/src/jquery.csv.js"></script>
+	<link href="./css/style.css" rel="stylesheet" />
 </head>
 
 <body>
-	<div class="container">
+	<div class="container-new">
 		<div class="sidebar">
-			<h1>GHG Emission in UK</h1>
-			<h2>From UK Government Data</h2>
+			<h1>Greenhouse Gas Emission</h1>
+			<h2>tracking the UK progress to reach net zero emissions by 2050</h2>
+			<hr width="100%" />
+			<p>Data: CO2 Emission in each local authority in the UK in 2020</p>
+			<a href="https://www.gov.uk/government/collections/uk-local-authority-and-regional-carbon-dioxide-emissions-national-statistics" target="_blank">
+			Download UK datasets
+			</a>
+			<p><br>Note: Click the map to see CO2 emission in each local authority</p>
+			<hr width="100%" />
+			<p class='emphasis'>Highlight areas that produce CO2 most from the following sector:</p>
+			<div class="btn-group" role="group" aria-label="Basic example">
+			<button id = "button-transport" type="button" class="btn btn-primary" value="OFF">Transport</button>
+			<button id = "button-domestic" type="button" class="btn btn-primary" value="OFF">Domestic</button>
+			<button id = "button-industry" type="button" class="btn btn-primary" value="OFF">Industry</button>
+			<button id = "button-commercial" type="button" class="btn btn-primary" value="OFF">Commercial</button>
+			<button id = "button-agriculture" type="button" class="btn btn-primary" value="OFF">Agriculture</button>
+			<button id = "button-publicsector" type="button" class="btn btn-primary" value="OFF">Public Sector</button>
+			</div>
+			<!-- <div class="btn-group" data-toggle="buttons">
+				<label class="btn btn-primary active">
+				  <input type="radio" name="options" id="option1" checked> Transport
+				</label>
+				<label class="btn btn-primary">
+				  <input type="radio" name="options" id="option2"> Domestic
+				</label>
+				<label class="btn btn-primary">
+				  <input type="radio" name="options" id="option3"> Industry
+				</label>
+			  </div> -->
 			<p class='emphasis'>Where should we make action plans for reducing GHG?</p>
-			
+			<div id="ghg_chart"></div>
+			<div id="sector_pie_chart"></div>
 			<!-- <div class='footer'>
 			<a href="#" class='info-link' onclick="show('overlay')">About</a> <a href="https://github.com/caranvr/individual-viz-final" class='info-link' target="_blank">Github</a>
 			</div> -->
 		</div>
-		<div id="tooltip" class = "tooltip"></div>
+		<div id="tooltip" class = "tooltip">
+			<div id="sector_donut_chart"></div>
+		</div>
 		<div id="map"></div>
 		<div class="map-overlay">
-		<h3>Visualise changes in borrowing over the year:</h3>
+		<!-- <h3>Visualise changes in borrowing over the year:</h3>
 			<label id='year'>2020</label>
-			<input id='year_slider' type='range' min='2020' max='2020' step='1' value='0' />
+			<input id='year_slider' type='range' min='2020' max='2020' step='1' value='0' /> -->
 			<!-- <div id='filters'>
 				<h3 id='subhead'>Select Category</h3>
 					<input id='all' type='radio' name='toggle' value='all' checked='checked'>

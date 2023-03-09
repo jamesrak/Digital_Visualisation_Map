@@ -1,0 +1,375 @@
+Local Authority Code,Region,Second Tier Authority,Local Authority,Calendar Year,Greenhouse gas,Agriculture,Commercial,Domestic,Industry,Public Sector,Transport,Grand Total,TopSector
+E06000001,North East,Hartlepool,Hartlepool,2020,CO2,2.0,25.0,130.0,296.0,13.0,123.0,589.0,Industry
+E06000002,North East,Middlesbrough,Middlesbrough,2020,CO2,1.0,25.0,186.0,57.0,40.0,250.0,560.0,Transport
+E06000003,North East,Redcar and Cleveland,Redcar and Cleveland,2020,CO2,5.0,51.0,202.0,1219.0,12.0,182.0,1671.0,Industry
+E06000004,North East,Stockton-on-Tees,Stockton-on-Tees,2020,CO2,11.0,80.0,270.0,1735.0,41.0,295.0,2432.0,Industry
+E06000005,North East,Darlington,Darlington,2020,CO2,7.0,22.0,162.0,114.0,18.0,166.0,490.0,Transport
+E06000006,North West,Halton,Halton,2020,CO2,1.0,76.0,158.0,167.0,12.0,222.0,636.0,Transport
+E06000007,North West,Warrington,Warrington,2020,CO2,4.0,79.0,283.0,230.0,20.0,545.0,1161.0,Transport
+E06000008,North West,Blackburn with Darwen,Blackburn with Darwen,2020,CO2,2.0,39.0,200.0,204.0,29.0,142.0,615.0,Industry
+E06000009,North West,Blackpool,Blackpool,2020,CO2,0.0,43.0,206.0,33.0,34.0,127.0,444.0,Domestic
+E06000010,Yorkshire and the Humber,"Kingston upon Hull, City of","Kingston upon Hull, City of",2020,CO2,1.0,97.0,321.0,229.0,53.0,336.0,1037.0,Transport
+E06000011,Yorkshire and the Humber,East Riding of Yorkshire,East Riding of Yorkshire,2020,CO2,128.0,120.0,563.0,815.0,55.0,692.0,2374.0,Industry
+E06000012,Yorkshire and the Humber,North East Lincolnshire,North East Lincolnshire,2020,CO2,5.0,51.0,226.0,625.0,23.0,229.0,1158.0,Industry
+E06000013,Yorkshire and the Humber,North Lincolnshire,North Lincolnshire,2020,CO2,26.0,40.0,252.0,5680.0,12.0,413.0,6423.0,Industry
+E06000014,Yorkshire and the Humber,York,York,2020,CO2,8.0,69.0,276.0,84.0,30.0,268.0,735.0,Domestic
+E06000015,East Midlands,Derby,Derby,2020,CO2,1.0,78.0,322.0,194.0,67.0,361.0,1023.0,Transport
+E06000016,East Midlands,Leicester,Leicester,2020,CO2,1.0,98.0,399.0,287.0,71.0,315.0,1171.0,Domestic
+E06000017,East Midlands,Rutland,Rutland,2020,CO2,11.0,13.0,65.0,701.0,15.0,131.0,937.0,Industry
+E06000018,East Midlands,Nottingham,Nottingham,2020,CO2,1.0,107.0,361.0,85.0,145.0,344.0,1044.0,Domestic
+E06000019,West Midlands,"Herefordshire, County of","Herefordshire, County of",2020,CO2,100.0,50.0,276.0,173.0,18.0,324.0,942.0,Transport
+E06000020,West Midlands,Telford and Wrekin,Telford and Wrekin,2020,CO2,10.0,46.0,224.0,193.0,35.0,277.0,785.0,Transport
+E06000021,West Midlands,Stoke on Trent,Stoke-on-Trent,2020,CO2,2.0,80.0,330.0,413.0,56.0,299.0,1180.0,Industry
+E06000022,South West,Bath and North East Somerset,Bath and North East Somerset,2020,CO2,16.0,45.0,251.0,41.0,46.0,210.0,609.0,Domestic
+E06000023,South West,"Bristol, City of","Bristol, City of",2020,CO2,2.0,165.0,506.0,108.0,125.0,454.0,1359.0,Domestic
+E06000024,South West,North Somerset,North Somerset,2020,CO2,19.0,54.0,277.0,147.0,23.0,447.0,967.0,Transport
+E06000025,South West,South Gloucestershire,South Gloucestershire,2020,CO2,20.0,93.0,340.0,245.0,37.0,730.0,1466.0,Transport
+E06000026,South West,Plymouth,Plymouth,2020,CO2,1.0,75.0,277.0,129.0,45.0,278.0,805.0,Transport
+E06000027,South West,Torbay,Torbay,2020,CO2,2.0,49.0,169.0,28.0,27.0,127.0,402.0,Domestic
+E06000030,South West,Swindon,Swindon,2020,CO2,8.0,94.0,271.0,125.0,28.0,362.0,888.0,Transport
+E06000031,East of England,Peterborough,Peterborough,2020,CO2,12.0,90.0,249.0,87.0,43.0,373.0,855.0,Transport
+E06000032,East of England,Luton,Luton,2020,CO2,0.0,55.0,243.0,76.0,29.0,191.0,595.0,Domestic
+E06000033,East of England,Southend-on-Sea,Southend-on-Sea,2020,CO2,1.0,31.0,256.0,42.0,27.0,131.0,488.0,Domestic
+E06000034,East of England,Thurrock,Thurrock,2020,CO2,22.0,76.0,204.0,180.0,11.0,388.0,881.0,Transport
+E06000035,South East,Medway,Medway,2020,CO2,4.0,33.0,333.0,98.0,27.0,271.0,767.0,Domestic
+E06000036,South East,Bracknell Forest,Bracknell Forest,2020,CO2,3.0,71.0,158.0,16.0,24.0,127.0,400.0,Domestic
+E06000037,South East,West Berkshire,West Berkshire,2020,CO2,20.0,42.0,241.0,138.0,38.0,493.0,973.0,Transport
+E06000038,South East,Reading,Reading,2020,CO2,1.0,81.0,195.0,34.0,37.0,113.0,461.0,Domestic
+E06000039,South East,Slough,Slough,2020,CO2,1.0,205.0,150.0,86.0,30.0,149.0,621.0,Commercial
+E06000040,South East,Windsor and Maidenhead,Windsor and Maidenhead,2020,CO2,5.0,77.0,236.0,32.0,25.0,292.0,666.0,Transport
+E06000041,South East,Wokingham,Wokingham,2020,CO2,5.0,59.0,249.0,36.0,16.0,269.0,633.0,Transport
+E06000042,South East,Milton Keynes,Milton Keynes,2020,CO2,9.0,134.0,341.0,141.0,45.0,477.0,1147.0,Transport
+E06000043,South East,Brighton and Hove,Brighton and Hove,2020,CO2,2.0,77.0,332.0,25.0,56.0,263.0,755.0,Domestic
+E06000044,South East,Portsmouth,Portsmouth,2020,CO2,0.0,87.0,221.0,91.0,49.0,240.0,688.0,Transport
+E06000045,South East,Southampton,Southampton,2020,CO2,1.0,66.0,246.0,72.0,64.0,218.0,667.0,Domestic
+E06000046,South East,Isle of Wight,Isle of Wight,2020,CO2,17.0,56.0,192.0,82.0,23.0,103.0,473.0,Domestic
+E06000047,North East,Durham,County Durham,2020,CO2,48.0,96.0,844.0,330.0,94.0,769.0,2181.0,Domestic
+E06000049,North West,Cheshire,Cheshire East,2020,CO2,73.0,165.0,648.0,347.0,61.0,981.0,2276.0,Transport
+E06000050,North West,Cheshire,Cheshire West and Chester,2020,CO2,51.0,176.0,516.0,1832.0,68.0,758.0,3401.0,Industry
+E06000051,West Midlands,Shropshire,Shropshire,2020,CO2,165.0,86.0,466.0,179.0,56.0,592.0,1544.0,Transport
+E06000052,South West,Cornwall,Cornwall,2020,CO2,169.0,203.0,725.0,314.0,63.0,853.0,2328.0,Transport
+E06000053,South West,Isles of Scilly,Isles of Scilly,2020,CO2,0.0,1.0,2.0,0.0,0.0,2.0,6.0,Domestic
+E06000054,South West,Wiltshire,Wiltshire,2020,CO2,129.0,137.0,680.0,282.0,102.0,1005.0,2335.0,Transport
+E06000055,East of England,Bedfordshire,Bedford,2020,CO2,12.0,57.0,234.0,67.0,31.0,258.0,661.0,Transport
+E06000056,East of England,Bedfordshire,Central Bedfordshire,2020,CO2,22.0,81.0,393.0,149.0,31.0,667.0,1343.0,Transport
+E06000057,North East,Northumberland,Northumberland,2020,CO2,133.0,57.0,536.0,279.0,36.0,526.0,1567.0,Domestic
+E06000058,South West,Dorset,"Bournemouth, Christchurch and Poole",2020,CO2,2.0,115.0,495.0,135.0,56.0,390.0,1193.0,Domestic
+E06000059,South West,Dorset,Dorset,2020,CO2,123.0,97.0,531.0,138.0,49.0,624.0,1562.0,Transport
+E06000060,South East,Buckinghamshire,Buckinghamshire,2020,CO2,49.0,152.0,858.0,147.0,84.0,1141.0,2430.0,Transport
+E06000061,East Midlands,Northamptonshire,North Northamptonshire,2020,CO2,24.0,100.0,480.0,315.0,29.0,682.0,1629.0,Transport
+E06000062,East Midlands,Northamptonshire,West Northamptonshire,2020,CO2,48.0,171.0,553.0,198.0,61.0,1107.0,2138.0,Transport
+E07000008,East of England,Cambridgeshire,Cambridge,2020,CO2,3.0,78.0,154.0,23.0,96.0,90.0,443.0,Domestic
+E07000009,East of England,Cambridgeshire,East Cambridgeshire,2020,CO2,31.0,21.0,128.0,52.0,9.0,221.0,462.0,Transport
+E07000010,East of England,Cambridgeshire,Fenland,2020,CO2,28.0,28.0,143.0,201.0,8.0,166.0,573.0,Industry
+E07000011,East of England,Cambridgeshire,Huntingdonshire,2020,CO2,30.0,37.0,250.0,118.0,31.0,617.0,1083.0,Transport
+E07000012,East of England,Cambridgeshire,South Cambridgeshire,2020,CO2,24.0,74.0,237.0,126.0,16.0,480.0,957.0,Transport
+E07000026,North West,Cumbria,Allerdale,2020,CO2,52.0,22.0,164.0,195.0,8.0,143.0,584.0,Industry
+E07000027,North West,Cumbria,Barrow-in-Furness,2020,CO2,2.0,45.0,100.0,250.0,9.0,35.0,442.0,Industry
+E07000028,North West,Cumbria,Carlisle,2020,CO2,44.0,69.0,176.0,89.0,20.0,225.0,623.0,Transport
+E07000029,North West,Cumbria,Copeland,2020,CO2,17.0,11.0,110.0,14.0,12.0,64.0,229.0,Domestic
+E07000030,North West,Cumbria,Eden,2020,CO2,86.0,41.0,105.0,260.0,4.0,354.0,851.0,Transport
+E07000031,North West,Cumbria,South Lakeland,2020,CO2,46.0,49.0,191.0,106.0,9.0,279.0,681.0,Transport
+E07000032,East Midlands,Derbyshire,Amber Valley,2020,CO2,13.0,40.0,191.0,131.0,13.0,190.0,577.0,Domestic
+E07000033,East Midlands,Derbyshire,Bolsover,2020,CO2,8.0,23.0,118.0,417.0,8.0,260.0,833.0,Industry
+E07000034,East Midlands,Derbyshire,Chesterfield,2020,CO2,2.0,44.0,143.0,61.0,20.0,130.0,401.0,Domestic
+E07000035,East Midlands,Derbyshire,Derbyshire Dales,2020,CO2,36.0,24.0,124.0,88.0,6.0,196.0,474.0,Transport
+E07000036,East Midlands,Derbyshire,Erewash,2020,CO2,3.0,25.0,159.0,67.0,19.0,193.0,467.0,Transport
+E07000037,East Midlands,Derbyshire,High Peak,2020,CO2,12.0,23.0,144.0,2362.0,10.0,136.0,2686.0,Industry
+E07000038,East Midlands,Derbyshire,North East Derbyshire,2020,CO2,8.0,16.0,152.0,65.0,9.0,205.0,455.0,Transport
+E07000039,East Midlands,Derbyshire,South Derbyshire,2020,CO2,24.0,25.0,146.0,97.0,13.0,247.0,552.0,Transport
+E07000040,South West,Devon,East Devon,2020,CO2,36.0,28.0,198.0,33.0,12.0,249.0,557.0,Transport
+E07000041,South West,Devon,Exeter,2020,CO2,8.0,54.0,129.0,52.0,47.0,90.0,380.0,Domestic
+E07000042,South West,Devon,Mid Devon,2020,CO2,43.0,17.0,105.0,69.0,5.0,211.0,451.0,Transport
+E07000043,South West,Devon,North Devon,2020,CO2,61.0,22.0,131.0,63.0,11.0,157.0,445.0,Transport
+E07000044,South West,Devon,South Hams,2020,CO2,38.0,49.0,127.0,43.0,3.0,185.0,444.0,Transport
+E07000045,South West,Devon,Teignbridge,2020,CO2,23.0,25.0,170.0,88.0,11.0,308.0,624.0,Transport
+E07000046,South West,Devon,Torridge,2020,CO2,50.0,9.0,91.0,30.0,4.0,100.0,284.0,Transport
+E07000047,South West,Devon,West Devon,2020,CO2,41.0,8.0,80.0,46.0,4.0,145.0,323.0,Transport
+E07000061,South East,East Sussex,Eastbourne,2020,CO2,1.0,33.0,121.0,11.0,27.0,74.0,268.0,Domestic
+E07000062,South East,East Sussex,Hastings,2020,CO2,0.0,21.0,114.0,16.0,13.0,64.0,228.0,Domestic
+E07000063,South East,East Sussex,Lewes,2020,CO2,11.0,18.0,142.0,24.0,12.0,146.0,352.0,Transport
+E07000064,South East,East Sussex,Rother,2020,CO2,18.0,38.0,152.0,46.0,6.0,154.0,414.0,Transport
+E07000065,South East,East Sussex,Wealden,2020,CO2,28.0,26.0,254.0,40.0,16.0,290.0,654.0,Transport
+E07000066,East of England,Essex,Basildon,2020,CO2,2.0,98.0,232.0,69.0,32.0,262.0,695.0,Transport
+E07000067,East of England,Essex,Braintree,2020,CO2,14.0,25.0,210.0,83.0,14.0,279.0,626.0,Transport
+E07000068,East of England,Essex,Brentwood,2020,CO2,7.0,17.0,126.0,30.0,10.0,228.0,419.0,Transport
+E07000069,East of England,Essex,Castle Point,2020,CO2,1.0,15.0,130.0,18.0,7.0,97.0,269.0,Domestic
+E07000070,East of England,Essex,Chelmsford,2020,CO2,9.0,47.0,248.0,66.0,29.0,331.0,731.0,Transport
+E07000071,East of England,Essex,Colchester,2020,CO2,9.0,40.0,247.0,57.0,38.0,283.0,675.0,Transport
+E07000072,East of England,Essex,Epping Forest,2020,CO2,56.0,43.0,204.0,24.0,14.0,492.0,834.0,Transport
+E07000073,East of England,Essex,Harlow,2020,CO2,0.0,29.0,106.0,95.0,14.0,93.0,337.0,Domestic
+E07000074,East of England,Essex,Maldon,2020,CO2,11.0,10.0,97.0,50.0,3.0,75.0,247.0,Domestic
+E07000075,East of England,Essex,Rochford,2020,CO2,4.0,16.0,124.0,18.0,7.0,92.0,262.0,Domestic
+E07000076,East of England,Essex,Tendring,2020,CO2,11.0,31.0,211.0,62.0,12.0,204.0,532.0,Domestic
+E07000077,East of England,Essex,Uttlesford,2020,CO2,15.0,31.0,140.0,26.0,17.0,377.0,604.0,Transport
+E07000078,South West,Gloucestershire,Cheltenham,2020,CO2,1.0,30.0,155.0,34.0,50.0,82.0,352.0,Domestic
+E07000079,South West,Gloucestershire,Cotswold,2020,CO2,39.0,29.0,151.0,56.0,11.0,239.0,526.0,Transport
+E07000080,South West,Gloucestershire,Forest of Dean,2020,CO2,21.0,11.0,122.0,101.0,6.0,144.0,404.0,Transport
+E07000081,South West,Gloucestershire,Gloucester,2020,CO2,1.0,44.0,151.0,87.0,28.0,103.0,413.0,Domestic
+E07000082,South West,Gloucestershire,Stroud,2020,CO2,31.0,17.0,170.0,88.0,22.0,314.0,643.0,Transport
+E07000083,South West,Gloucestershire,Tewkesbury,2020,CO2,20.0,35.0,123.0,94.0,8.0,299.0,579.0,Transport
+E07000084,South East,Hampshire,Basingstoke and Deane,2020,CO2,20.0,75.0,247.0,90.0,22.0,398.0,852.0,Transport
+E07000085,South East,Hampshire,East Hampshire,2020,CO2,14.0,24.0,192.0,47.0,15.0,261.0,552.0,Transport
+E07000086,South East,Hampshire,Eastleigh,2020,CO2,7.0,39.0,165.0,57.0,13.0,222.0,503.0,Transport
+E07000087,South East,Hampshire,Fareham,2020,CO2,2.0,27.0,147.0,47.0,14.0,167.0,404.0,Transport
+E07000088,South East,Hampshire,Gosport,2020,CO2,0.0,15.0,91.0,22.0,13.0,58.0,200.0,Domestic
+E07000089,South East,Hampshire,Hart,2020,CO2,7.0,42.0,149.0,22.0,19.0,184.0,423.0,Transport
+E07000090,South East,Hampshire,Havant,2020,CO2,1.0,20.0,158.0,39.0,11.0,142.0,371.0,Domestic
+E07000091,South East,Hampshire,New Forest,2020,CO2,16.0,24.0,261.0,186.0,8.0,381.0,876.0,Transport
+E07000092,South East,Hampshire,Rushmoor,2020,CO2,0.0,40.0,116.0,34.0,18.0,119.0,328.0,Transport
+E07000093,South East,Hampshire,Test Valley,2020,CO2,22.0,49.0,184.0,71.0,21.0,353.0,700.0,Transport
+E07000094,South East,Hampshire,Winchester,2020,CO2,22.0,44.0,185.0,43.0,33.0,352.0,679.0,Transport
+E07000095,East of England,Hertfordshire,Broxbourne,2020,CO2,2.0,34.0,124.0,42.0,7.0,113.0,322.0,Domestic
+E07000096,East of England,Hertfordshire,Dacorum,2020,CO2,6.0,72.0,217.0,38.0,25.0,241.0,599.0,Transport
+E07000098,East of England,Hertfordshire,Hertsmere,2020,CO2,2.0,44.0,161.0,54.0,19.0,318.0,598.0,Transport
+E07000099,East of England,Hertfordshire,North Hertfordshire,2020,CO2,10.0,30.0,186.0,77.0,11.0,243.0,558.0,Transport
+E07000102,East of England,Hertfordshire,Three Rivers,2020,CO2,3.0,29.0,146.0,18.0,18.0,264.0,478.0,Transport
+E07000103,East of England,Hertfordshire,Watford,2020,CO2,0.0,54.0,120.0,17.0,17.0,86.0,295.0,Domestic
+E07000105,South East,Kent,Ashford,2020,CO2,17.0,34.0,179.0,62.0,24.0,229.0,546.0,Transport
+E07000106,South East,Kent,Canterbury,2020,CO2,10.0,45.0,203.0,22.0,56.0,189.0,525.0,Domestic
+E07000107,South East,Kent,Dartford,2020,CO2,2.0,50.0,136.0,32.0,12.0,292.0,524.0,Transport
+E07000108,South East,Kent,Dover,2020,CO2,11.0,55.0,152.0,39.0,9.0,133.0,400.0,Domestic
+E07000109,South East,Kent,Gravesham,2020,CO2,3.0,34.0,132.0,70.0,7.0,156.0,403.0,Transport
+E07000110,South East,Kent,Maidstone,2020,CO2,16.0,43.0,230.0,73.0,25.0,319.0,705.0,Transport
+E07000111,South East,Kent,Sevenoaks,2020,CO2,11.0,26.0,198.0,30.0,14.0,402.0,681.0,Transport
+E07000112,South East,Kent,Folkestone and Hythe,2020,CO2,10.0,25.0,153.0,27.0,25.0,164.0,405.0,Transport
+E07000113,South East,Kent,Swale,2020,CO2,16.0,42.0,184.0,532.0,16.0,270.0,1060.0,Industry
+E07000114,South East,Kent,Thanet,2020,CO2,107.0,35.0,183.0,30.0,15.0,117.0,488.0,Domestic
+E07000115,South East,Kent,Tonbridge and Malling,2020,CO2,8.0,43.0,179.0,140.0,15.0,320.0,704.0,Transport
+E07000116,South East,Kent,Tunbridge Wells,2020,CO2,15.0,44.0,178.0,21.0,19.0,138.0,416.0,Domestic
+E07000117,North West,Lancashire,Burnley,2020,CO2,2.0,35.0,128.0,50.0,18.0,126.0,358.0,Domestic
+E07000118,North West,Lancashire,Chorley,2020,CO2,8.0,23.0,170.0,55.0,22.0,284.0,562.0,Transport
+E07000119,North West,Lancashire,Fylde,2020,CO2,9.0,17.0,132.0,86.0,13.0,157.0,414.0,Transport
+E07000120,North West,Lancashire,Hyndburn,2020,CO2,2.0,19.0,114.0,76.0,7.0,131.0,349.0,Transport
+E07000121,North West,Lancashire,Lancaster,2020,CO2,25.0,30.0,199.0,79.0,34.0,290.0,658.0,Transport
+E07000122,North West,Lancashire,Pendle,2020,CO2,6.0,17.0,135.0,69.0,7.0,125.0,360.0,Domestic
+E07000123,North West,Lancashire,Preston,2020,CO2,7.0,76.0,191.0,77.0,46.0,262.0,659.0,Transport
+E07000124,North West,Lancashire,Ribble Valley,2020,CO2,23.0,9.0,106.0,599.0,5.0,101.0,844.0,Industry
+E07000125,North West,Lancashire,Rossendale,2020,CO2,3.0,11.0,109.0,75.0,6.0,119.0,323.0,Transport
+E07000126,North West,Lancashire,South Ribble,2020,CO2,5.0,34.0,155.0,197.0,7.0,219.0,616.0,Transport
+E07000127,North West,Lancashire,West Lancashire,2020,CO2,52.0,27.0,170.0,145.0,24.0,188.0,606.0,Transport
+E07000128,North West,Lancashire,Wyre,2020,CO2,15.0,37.0,173.0,110.0,9.0,190.0,533.0,Transport
+E07000129,East Midlands,Leicestershire,Blaby,2020,CO2,5.0,34.0,142.0,41.0,7.0,277.0,507.0,Transport
+E07000130,East Midlands,Leicestershire,Charnwood,2020,CO2,17.0,41.0,246.0,137.0,34.0,272.0,747.0,Transport
+E07000131,East Midlands,Leicestershire,Harborough,2020,CO2,25.0,28.0,146.0,31.0,9.0,276.0,515.0,Transport
+E07000132,East Midlands,Leicestershire,Hinckley and Bosworth,2020,CO2,10.0,30.0,164.0,95.0,7.0,233.0,540.0,Transport
+E07000133,East Midlands,Leicestershire,Melton,2020,CO2,18.0,12.0,79.0,55.0,5.0,96.0,265.0,Transport
+E07000134,East Midlands,Leicestershire,North West Leicestershire,2020,CO2,10.0,47.0,150.0,314.0,26.0,375.0,923.0,Transport
+E07000135,East Midlands,Leicestershire,Oadby and Wigston,2020,CO2,0.0,9.0,81.0,25.0,9.0,44.0,168.0,Domestic
+E07000136,East Midlands,Lincolnshire,Boston,2020,CO2,14.0,16.0,95.0,38.0,7.0,100.0,269.0,Transport
+E07000137,East Midlands,Lincolnshire,East Lindsey,2020,CO2,53.0,44.0,218.0,65.0,13.0,236.0,629.0,Transport
+E07000138,East Midlands,Lincolnshire,Lincoln,2020,CO2,1.0,37.0,118.0,36.0,35.0,59.0,286.0,Domestic
+E07000139,East Midlands,Lincolnshire,North Kesteven,2020,CO2,41.0,20.0,168.0,54.0,26.0,200.0,509.0,Transport
+E07000140,East Midlands,Lincolnshire,South Holland,2020,CO2,36.0,31.0,137.0,73.0,5.0,159.0,441.0,Transport
+E07000141,East Midlands,Lincolnshire,South Kesteven,2020,CO2,29.0,46.0,203.0,108.0,15.0,284.0,685.0,Transport
+E07000142,East Midlands,Lincolnshire,West Lindsey,2020,CO2,38.0,18.0,145.0,58.0,13.0,185.0,457.0,Transport
+E07000143,East of England,Norfolk,Breckland,2020,CO2,31.0,22.0,196.0,89.0,11.0,300.0,649.0,Transport
+E07000144,East of England,Norfolk,Broadland,2020,CO2,13.0,50.0,192.0,132.0,9.0,213.0,609.0,Transport
+E07000145,East of England,Norfolk,Great Yarmouth,2020,CO2,5.0,24.0,131.0,23.0,12.0,114.0,309.0,Domestic
+E07000146,East of England,Norfolk,King's Lynn and West Norfolk,2020,CO2,46.0,139.0,230.0,294.0,13.0,319.0,1040.0,Transport
+E07000147,East of England,Norfolk,North Norfolk,2020,CO2,27.0,32.0,168.0,62.0,13.0,182.0,485.0,Transport
+E07000148,East of England,Norfolk,Norwich,2020,CO2,1.0,45.0,166.0,55.0,40.0,110.0,416.0,Domestic
+E07000149,East of England,Norfolk,South Norfolk,2020,CO2,41.0,24.0,202.0,81.0,20.0,322.0,690.0,Transport
+E07000163,Yorkshire and the Humber,North Yorkshire,Craven,2020,CO2,34.0,14.0,100.0,43.0,6.0,128.0,326.0,Transport
+E07000164,Yorkshire and the Humber,North Yorkshire,Hambleton,2020,CO2,53.0,22.0,165.0,94.0,20.0,334.0,688.0,Transport
+E07000165,Yorkshire and the Humber,North Yorkshire,Harrogate,2020,CO2,44.0,65.0,280.0,83.0,50.0,423.0,944.0,Transport
+E07000166,Yorkshire and the Humber,North Yorkshire,Richmondshire,2020,CO2,30.0,23.0,87.0,19.0,10.0,182.0,352.0,Transport
+E07000167,Yorkshire and the Humber,North Yorkshire,Ryedale,2020,CO2,41.0,24.0,100.0,60.0,19.0,161.0,406.0,Transport
+E07000168,Yorkshire and the Humber,North Yorkshire,Scarborough,2020,CO2,20.0,56.0,181.0,79.0,12.0,135.0,482.0,Domestic
+E07000169,Yorkshire and the Humber,North Yorkshire,Selby,2020,CO2,24.0,56.0,141.0,299.0,9.0,262.0,790.0,Industry
+E07000170,East Midlands,Nottinghamshire,Ashfield,2020,CO2,2.0,31.0,172.0,85.0,27.0,187.0,505.0,Transport
+E07000171,East Midlands,Nottinghamshire,Bassetlaw,2020,CO2,19.0,21.0,171.0,127.0,9.0,300.0,648.0,Transport
+E07000172,East Midlands,Nottinghamshire,Broxtowe,2020,CO2,2.0,57.0,158.0,114.0,11.0,233.0,575.0,Transport
+E07000173,East Midlands,Nottinghamshire,Gedling,2020,CO2,3.0,30.0,174.0,75.0,14.0,94.0,391.0,Domestic
+E07000174,East Midlands,Nottinghamshire,Mansfield,2020,CO2,2.0,35.0,158.0,47.0,10.0,101.0,353.0,Domestic
+E07000175,East Midlands,Nottinghamshire,Newark and Sherwood,2020,CO2,22.0,28.0,185.0,221.0,5.0,316.0,777.0,Transport
+E07000176,East Midlands,Nottinghamshire,Rushcliffe,2020,CO2,14.0,93.0,184.0,106.0,19.0,222.0,638.0,Transport
+E07000177,South East,Oxfordshire,Cherwell,2020,CO2,19.0,55.0,220.0,210.0,27.0,466.0,996.0,Transport
+E07000178,South East,Oxfordshire,Oxford,2020,CO2,1.0,90.0,172.0,76.0,89.0,113.0,541.0,Domestic
+E07000179,South East,Oxfordshire,South Oxfordshire,2020,CO2,27.0,58.0,226.0,73.0,18.0,316.0,719.0,Transport
+E07000180,South East,Oxfordshire,Vale of White Horse,2020,CO2,19.0,47.0,197.0,88.0,25.0,310.0,686.0,Transport
+E07000181,South East,Oxfordshire,West Oxfordshire,2020,CO2,22.0,23.0,175.0,73.0,28.0,180.0,502.0,Transport
+E07000187,South West,Somerset,Mendip,2020,CO2,36.0,24.0,156.0,124.0,12.0,210.0,563.0,Transport
+E07000188,South West,Somerset,Sedgemoor,2020,CO2,28.0,28.0,155.0,128.0,22.0,337.0,698.0,Transport
+E07000189,South West,Somerset,South Somerset,2020,CO2,48.0,32.0,226.0,135.0,24.0,303.0,767.0,Transport
+E07000192,West Midlands,Staffordshire,Cannock Chase,2020,CO2,1.0,26.0,136.0,65.0,7.0,97.0,333.0,Domestic
+E07000193,West Midlands,Staffordshire,East Staffordshire,2020,CO2,20.0,78.0,164.0,128.0,19.0,199.0,609.0,Transport
+E07000194,West Midlands,Staffordshire,Lichfield,2020,CO2,12.0,23.0,156.0,53.0,16.0,269.0,530.0,Transport
+E07000195,West Midlands,Staffordshire,Newcastle-under-Lyme,2020,CO2,10.0,34.0,174.0,89.0,15.0,294.0,616.0,Transport
+E07000196,West Midlands,Staffordshire,South Staffordshire,2020,CO2,17.0,20.0,158.0,108.0,20.0,412.0,734.0,Transport
+E07000197,West Midlands,Staffordshire,Stafford,2020,CO2,33.0,37.0,198.0,52.0,31.0,437.0,789.0,Transport
+E07000198,West Midlands,Staffordshire,Staffordshire Moorlands,2020,CO2,28.0,52.0,151.0,657.0,8.0,148.0,1044.0,Industry
+E07000199,West Midlands,Staffordshire,Tamworth,2020,CO2,0.0,15.0,96.0,35.0,4.0,71.0,222.0,Domestic
+E07000200,East of England,Suffolk,Babergh,2020,CO2,22.0,17.0,137.0,68.0,6.0,191.0,440.0,Transport
+E07000202,East of England,Suffolk,Ipswich,2020,CO2,1.0,32.0,163.0,37.0,24.0,101.0,357.0,Domestic
+E07000203,East of England,Suffolk,Mid Suffolk,2020,CO2,23.0,23.0,149.0,90.0,14.0,226.0,524.0,Transport
+E07000207,South East,Surrey,Elmbridge,2020,CO2,2.0,56.0,239.0,22.0,21.0,241.0,582.0,Transport
+E07000208,South East,Surrey,Epsom and Ewell,2020,CO2,1.0,13.0,119.0,4.0,15.0,66.0,218.0,Domestic
+E07000209,South East,Surrey,Guildford,2020,CO2,6.0,51.0,213.0,28.0,42.0,329.0,668.0,Transport
+E07000210,South East,Surrey,Mole Valley,2020,CO2,7.0,32.0,151.0,47.0,18.0,224.0,479.0,Transport
+E07000211,South East,Surrey,Reigate and Banstead,2020,CO2,3.0,37.0,227.0,55.0,30.0,291.0,642.0,Transport
+E07000212,South East,Surrey,Runnymede,2020,CO2,11.0,32.0,122.0,15.0,35.0,291.0,507.0,Transport
+E07000213,South East,Surrey,Spelthorne,2020,CO2,1.0,27.0,135.0,25.0,13.0,160.0,360.0,Transport
+E07000214,South East,Surrey,Surrey Heath,2020,CO2,2.0,36.0,141.0,53.0,15.0,213.0,459.0,Transport
+E07000215,South East,Surrey,Tandridge,2020,CO2,9.0,22.0,148.0,16.0,13.0,272.0,479.0,Transport
+E07000216,South East,Surrey,Waverley,2020,CO2,9.0,28.0,215.0,19.0,27.0,212.0,509.0,Domestic
+E07000217,South East,Surrey,Woking,2020,CO2,1.0,42.0,144.0,89.0,13.0,111.0,399.0,Domestic
+E07000218,West Midlands,Warwickshire,North Warwickshire,2020,CO2,7.0,44.0,94.0,125.0,4.0,481.0,756.0,Transport
+E07000219,West Midlands,Warwickshire,Nuneaton and Bedworth,2020,CO2,1.0,26.0,168.0,44.0,16.0,178.0,433.0,Transport
+E07000220,West Midlands,Warwickshire,Rugby,2020,CO2,14.0,58.0,151.0,1079.0,13.0,359.0,1673.0,Industry
+E07000221,West Midlands,Warwickshire,Stratford-on-Avon,2020,CO2,36.0,69.0,207.0,119.0,26.0,414.0,871.0,Transport
+E07000222,West Midlands,Warwickshire,Warwick,2020,CO2,8.0,51.0,201.0,58.0,25.0,376.0,718.0,Transport
+E07000223,South East,West Sussex,Adur,2020,CO2,2.0,13.0,78.0,18.0,7.0,88.0,207.0,Transport
+E07000224,South East,West Sussex,Arun,2020,CO2,11.0,34.0,220.0,45.0,16.0,180.0,506.0,Domestic
+E07000225,South East,West Sussex,Chichester,2020,CO2,49.0,39.0,197.0,119.0,28.0,248.0,679.0,Transport
+E07000226,South East,West Sussex,Crawley,2020,CO2,1.0,89.0,127.0,72.0,12.0,199.0,499.0,Transport
+E07000227,South East,West Sussex,Horsham,2020,CO2,23.0,29.0,215.0,82.0,13.0,232.0,594.0,Transport
+E07000228,South East,West Sussex,Mid Sussex,2020,CO2,12.0,33.0,217.0,63.0,20.0,237.0,581.0,Transport
+E07000229,South East,West Sussex,Worthing,2020,CO2,1.0,17.0,138.0,35.0,16.0,79.0,285.0,Domestic
+E07000234,West Midlands,Worcestershire,Bromsgrove,2020,CO2,7.0,21.0,149.0,25.0,13.0,346.0,561.0,Transport
+E07000235,West Midlands,Worcestershire,Malvern Hills,2020,CO2,24.0,12.0,122.0,39.0,9.0,221.0,427.0,Transport
+E07000236,West Midlands,Worcestershire,Redditch,2020,CO2,2.0,17.0,107.0,60.0,9.0,80.0,275.0,Domestic
+E07000237,West Midlands,Worcestershire,Worcester,2020,CO2,1.0,24.0,121.0,39.0,26.0,91.0,302.0,Domestic
+E07000238,West Midlands,Worcestershire,Wychavon,2020,CO2,29.0,44.0,184.0,136.0,27.0,397.0,816.0,Transport
+E07000239,West Midlands,Worcestershire,Wyre Forest,2020,CO2,5.0,23.0,137.0,57.0,11.0,124.0,357.0,Domestic
+E07000240,East of England,Hertfordshire,St Albans,2020,CO2,5.0,50.0,226.0,30.0,17.0,491.0,819.0,Transport
+E07000241,East of England,Hertfordshire,Welwyn Hatfield,2020,CO2,3.0,74.0,157.0,63.0,31.0,208.0,536.0,Transport
+E07000242,East of England,Hertfordshire,East Hertfordshire,2020,CO2,16.0,58.0,216.0,64.0,20.0,235.0,609.0,Transport
+E07000243,East of England,Hertfordshire,Stevenage,2020,CO2,0.0,57.0,101.0,44.0,22.0,108.0,332.0,Transport
+E07000244,East of England,Suffolk,East Suffolk,2020,CO2,32.0,67.0,357.0,201.0,20.0,350.0,1027.0,Domestic
+E07000245,East of England,Suffolk,West Suffolk,2020,CO2,28.0,220.0,240.0,424.0,41.0,342.0,1295.0,Industry
+E07000246,South West,Somerset,Somerset West and Taunton,2020,CO2,53.0,37.0,195.0,38.0,26.0,334.0,682.0,Transport
+E08000001,North West,Bolton,Bolton,2020,CO2,3.0,72.0,382.0,118.0,43.0,482.0,1100.0,Transport
+E08000002,North West,Bury,Bury,2020,CO2,2.0,48.0,266.0,71.0,25.0,355.0,766.0,Transport
+E08000003,North West,Manchester,Manchester,2020,CO2,1.0,273.0,574.0,144.0,185.0,637.0,1814.0,Transport
+E08000004,North West,Oldham,Oldham,2020,CO2,1.0,54.0,296.0,92.0,46.0,233.0,723.0,Domestic
+E08000005,North West,Rochdale,Rochdale,2020,CO2,3.0,50.0,285.0,120.0,26.0,382.0,866.0,Transport
+E08000006,North West,Salford,Salford,2020,CO2,2.0,103.0,313.0,79.0,68.0,494.0,1060.0,Transport
+E08000007,North West,Stockport,Stockport,2020,CO2,16.0,66.0,427.0,122.0,34.0,427.0,1093.0,Domestic
+E08000008,North West,Tameside,Tameside,2020,CO2,3.0,44.0,296.0,114.0,32.0,256.0,746.0,Domestic
+E08000009,North West,Trafford,Trafford,2020,CO2,1.0,167.0,335.0,507.0,19.0,331.0,1360.0,Industry
+E08000010,North West,Wigan,Wigan,2020,CO2,3.0,87.0,424.0,203.0,29.0,425.0,1173.0,Transport
+E08000011,North West,Knowsley,Knowsley,2020,CO2,2.0,26.0,188.0,141.0,18.0,335.0,710.0,Transport
+E08000012,North West,Liverpool,Liverpool,2020,CO2,1.0,185.0,577.0,195.0,129.0,564.0,1652.0,Domestic
+E08000013,North West,St. Helens,St. Helens,2020,CO2,3.0,85.0,239.0,365.0,67.0,273.0,1032.0,Industry
+E08000014,North West,Sefton,Sefton,2020,CO2,4.0,112.0,400.0,223.0,113.0,250.0,1103.0,Domestic
+E08000015,North West,Wirral,Wirral,2020,CO2,3.0,95.0,445.0,139.0,35.0,383.0,1102.0,Domestic
+E08000016,Yorkshire and the Humber,Barnsley,Barnsley,2020,CO2,9.0,137.0,333.0,216.0,18.0,407.0,1119.0,Transport
+E08000017,Yorkshire and the Humber,Doncaster,Doncaster,2020,CO2,18.0,145.0,416.0,239.0,43.0,783.0,1644.0,Transport
+E08000018,Yorkshire and the Humber,Rotherham,Rotherham,2020,CO2,9.0,77.0,354.0,328.0,43.0,532.0,1342.0,Transport
+E08000019,Yorkshire and the Humber,Sheffield,Sheffield,2020,CO2,7.0,157.0,721.0,398.0,107.0,623.0,2012.0,Domestic
+E08000021,North East,Newcastle upon Tyne,Newcastle upon Tyne,2020,CO2,2.0,135.0,380.0,79.0,126.0,363.0,1086.0,Domestic
+E08000022,North East,North Tyneside,North Tyneside,2020,CO2,1.0,73.0,301.0,105.0,33.0,256.0,768.0,Domestic
+E08000023,North East,South Tyneside,South Tyneside,2020,CO2,1.0,25.0,207.0,36.0,24.0,150.0,443.0,Domestic
+E08000024,North East,Sunderland,Sunderland,2020,CO2,2.0,61.0,392.0,204.0,48.0,340.0,1047.0,Domestic
+E08000025,West Midlands,Birmingham,Birmingham,2020,CO2,4.0,336.0,1333.0,528.0,245.0,1275.0,3721.0,Domestic
+E08000026,West Midlands,Coventry,Coventry,2020,CO2,1.0,94.0,400.0,166.0,86.0,383.0,1129.0,Domestic
+E08000027,West Midlands,Dudley,Dudley,2020,CO2,1.0,55.0,419.0,140.0,45.0,358.0,1017.0,Domestic
+E08000028,West Midlands,Sandwell,Sandwell,2020,CO2,0.0,109.0,390.0,237.0,39.0,484.0,1260.0,Transport
+E08000029,West Midlands,Solihull,Solihull,2020,CO2,5.0,106.0,308.0,117.0,29.0,492.0,1057.0,Transport
+E08000030,West Midlands,Walsall,Walsall,2020,CO2,2.0,51.0,353.0,142.0,35.0,349.0,931.0,Domestic
+E08000031,West Midlands,Wolverhampton,Wolverhampton,2020,CO2,1.0,74.0,332.0,127.0,54.0,268.0,858.0,Domestic
+E08000032,Yorkshire and the Humber,Bradford,Bradford,2020,CO2,8.0,142.0,719.0,340.0,83.0,584.0,1877.0,Domestic
+E08000033,Yorkshire and the Humber,Calderdale,Calderdale,2020,CO2,6.0,46.0,313.0,156.0,24.0,348.0,893.0,Transport
+E08000034,Yorkshire and the Humber,Kirklees,Kirklees,2020,CO2,10.0,147.0,608.0,294.0,40.0,588.0,1687.0,Domestic
+E08000035,Yorkshire and the Humber,Leeds,Leeds,2020,CO2,13.0,284.0,1050.0,492.0,177.0,1447.0,3462.0,Transport
+E08000036,Yorkshire and the Humber,Wakefield,Wakefield,2020,CO2,8.0,176.0,462.0,335.0,45.0,674.0,1699.0,Transport
+E08000037,North East,Gateshead,Gateshead,2020,CO2,2.0,51.0,282.0,156.0,42.0,382.0,914.0,Transport
+E09000001,London,City of London,City of London,2020,CO2,1.0,337.0,10.0,46.0,52.0,53.0,498.0,Commercial
+E09000002,London,Barking and Dagenham,Barking and Dagenham,2020,CO2,0.0,44.0,193.0,77.0,19.0,179.0,511.0,Domestic
+E09000003,London,Barnet,Barnet,2020,CO2,1.0,95.0,526.0,35.0,79.0,403.0,1139.0,Domestic
+E09000004,London,Bexley,Bexley,2020,CO2,1.0,105.0,302.0,85.0,18.0,237.0,747.0,Domestic
+E09000005,London,Brent,Brent,2020,CO2,0.0,107.0,366.0,106.0,86.0,238.0,903.0,Domestic
+E09000006,London,Bromley,Bromley,2020,CO2,2.0,81.0,490.0,29.0,41.0,297.0,940.0,Domestic
+E09000007,London,Camden,Camden,2020,CO2,2.0,243.0,241.0,38.0,207.0,144.0,875.0,Commercial
+E09000008,London,Croydon,Croydon,2020,CO2,1.0,102.0,502.0,37.0,61.0,318.0,1021.0,Domestic
+E09000009,London,Ealing,Ealing,2020,CO2,1.0,120.0,402.0,132.0,46.0,310.0,1011.0,Domestic
+E09000010,London,Enfield,Enfield,2020,CO2,2.0,91.0,388.0,82.0,41.0,412.0,1015.0,Transport
+E09000011,London,Greenwich,Greenwich,2020,CO2,0.0,86.0,286.0,47.0,52.0,270.0,741.0,Domestic
+E09000012,London,Hackney,Hackney,2020,CO2,0.0,90.0,248.0,26.0,53.0,144.0,561.0,Domestic
+E09000013,London,Hammersmith and Fulham,Hammersmith and Fulham,2020,CO2,0.0,119.0,217.0,25.0,72.0,139.0,572.0,Domestic
+E09000014,London,Haringey,Haringey,2020,CO2,0.0,96.0,303.0,31.0,24.0,166.0,621.0,Domestic
+E09000015,London,Harrow,Harrow,2020,CO2,1.0,41.0,333.0,20.0,27.0,183.0,604.0,Domestic
+E09000016,London,Havering,Havering,2020,CO2,2.0,55.0,331.0,51.0,25.0,385.0,849.0,Transport
+E09000017,London,Hillingdon,Hillingdon,2020,CO2,2.0,202.0,356.0,73.0,59.0,592.0,1285.0,Transport
+E09000018,London,Hounslow,Hounslow,2020,CO2,1.0,153.0,294.0,67.0,45.0,315.0,875.0,Transport
+E09000019,London,Islington,Islington,2020,CO2,0.0,158.0,226.0,24.0,55.0,119.0,582.0,Domestic
+E09000020,London,Kensington and Chelsea,Kensington and Chelsea,2020,CO2,1.0,200.0,224.0,41.0,60.0,138.0,664.0,Domestic
+E09000021,London,Kingston upon Thames,Kingston upon Thames,2020,CO2,1.0,59.0,217.0,20.0,29.0,206.0,531.0,Domestic
+E09000022,London,Lambeth,Lambeth,2020,CO2,1.0,100.0,344.0,34.0,110.0,227.0,816.0,Domestic
+E09000023,London,Lewisham,Lewisham,2020,CO2,0.0,63.0,328.0,17.0,38.0,245.0,692.0,Domestic
+E09000024,London,Merton,Merton,2020,CO2,0.0,92.0,262.0,31.0,21.0,146.0,553.0,Domestic
+E09000025,London,Newham,Newham,2020,CO2,0.0,172.0,277.0,131.0,34.0,267.0,881.0,Domestic
+E09000026,London,Redbridge,Redbridge,2020,CO2,0.0,42.0,348.0,29.0,35.0,290.0,744.0,Domestic
+E09000027,London,Richmond upon Thames,Richmond upon Thames,2020,CO2,1.0,55.0,287.0,23.0,29.0,173.0,568.0,Domestic
+E09000028,London,Southwark,Southwark,2020,CO2,0.0,169.0,281.0,34.0,118.0,229.0,830.0,Domestic
+E09000029,London,Sutton,Sutton,2020,CO2,1.0,45.0,256.0,54.0,28.0,166.0,550.0,Domestic
+E09000030,London,Tower Hamlets,Tower Hamlets,2020,CO2,0.0,346.0,213.0,104.0,93.0,264.0,1021.0,Commercial
+E09000031,London,Waltham Forest,Waltham Forest,2020,CO2,0.0,47.0,289.0,41.0,28.0,199.0,605.0,Domestic
+E09000032,London,Wandsworth,Wandsworth,2020,CO2,0.0,92.0,380.0,32.0,85.0,215.0,805.0,Domestic
+E09000033,London,Westminster,Westminster,2020,CO2,5.0,605.0,266.0,111.0,169.0,262.0,1418.0,Commercial
+N09000001,Northern Ireland,Northern Ireland,Antrim and Newtownabbey,2020,CO2,28.0,28.0,290.0,569.0,23.0,298.0,1236.0,Industry
+N09000002,Northern Ireland,Northern Ireland,"Armagh City, Banbridge and Craigavon",2020,CO2,88.0,29.0,426.0,1260.0,12.0,445.0,2261.0,Industry
+N09000003,Northern Ireland,Northern Ireland,Belfast,2020,CO2,10.0,88.0,594.0,283.0,206.0,272.0,1452.0,Domestic
+N09000004,Northern Ireland,Northern Ireland,Causeway Coast and Glens,2020,CO2,89.0,27.0,304.0,155.0,11.0,338.0,924.0,Transport
+N09000005,Northern Ireland,Northern Ireland,Derry City and Strabane,2020,CO2,42.0,20.0,293.0,365.0,40.0,228.0,989.0,Industry
+N09000006,Northern Ireland,Northern Ireland,Fermanagh and Omagh,2020,CO2,105.0,11.0,242.0,142.0,10.0,355.0,866.0,Transport
+N09000007,Northern Ireland,Northern Ireland,Lisburn and Castlereagh,2020,CO2,16.0,28.0,297.0,163.0,58.0,255.0,818.0,Domestic
+N09000008,Northern Ireland,Northern Ireland,Mid and East Antrim,2020,CO2,44.0,12.0,287.0,396.0,6.0,251.0,994.0,Industry
+N09000009,Northern Ireland,Northern Ireland,Mid Ulster,2020,CO2,87.0,12.0,268.0,579.0,6.0,354.0,1307.0,Industry
+N09000010,Northern Ireland,Northern Ireland,"Newry, Mourne and Down",2020,CO2,67.0,40.0,344.0,259.0,8.0,392.0,1109.0,Transport
+N09000011,Northern Ireland,Northern Ireland,Ards and North Down,2020,CO2,20.0,26.0,358.0,78.0,21.0,175.0,678.0,Domestic
+S12000005,Scotland,Scotland,Clackmannanshire,2020,CO2,5.0,103.0,74.0,215.0,8.0,57.0,463.0,Industry
+S12000006,Scotland,Scotland,Dumfries and Galloway,2020,CO2,189.0,55.0,253.0,140.0,17.0,429.0,1083.0,Transport
+S12000008,Scotland,Scotland,East Ayrshire,2020,CO2,53.0,20.0,185.0,65.0,20.0,188.0,531.0,Transport
+S12000010,Scotland,Scotland,East Lothian,2020,CO2,19.0,20.0,159.0,487.0,23.0,171.0,878.0,Industry
+S12000011,Scotland,Scotland,East Renfrewshire,2020,CO2,6.0,15.0,152.0,5.0,14.0,128.0,320.0,Domestic
+S12000013,Scotland,Scotland,Na h-Eileanan Siar,2020,CO2,14.0,4.0,57.0,13.0,3.0,38.0,129.0,Domestic
+S12000014,Scotland,Scotland,Falkirk,2020,CO2,10.0,32.0,225.0,1500.0,30.0,288.0,2085.0,Industry
+S12000017,Scotland,Scotland,Highland,2020,CO2,131.0,56.0,411.0,276.0,34.0,468.0,1376.0,Transport
+S12000018,Scotland,Scotland,Inverclyde,2020,CO2,25.0,15.0,112.0,34.0,15.0,95.0,296.0,Domestic
+S12000019,Scotland,Scotland,Midlothian,2020,CO2,13.0,27.0,131.0,29.0,17.0,120.0,336.0,Domestic
+S12000020,Scotland,Scotland,Moray,2020,CO2,56.0,30.0,156.0,252.0,29.0,134.0,657.0,Industry
+S12000021,Scotland,Scotland,North Ayrshire,2020,CO2,19.0,116.0,196.0,232.0,15.0,130.0,709.0,Industry
+S12000023,Scotland,Scotland,Orkney Islands,2020,CO2,40.0,4.0,36.0,7.0,2.0,27.0,116.0,Agriculture
+S12000026,Scotland,Scotland,Scottish Borders,2020,CO2,118.0,23.0,202.0,85.0,16.0,202.0,646.0,Domestic
+S12000027,Scotland,Scotland,Shetland Islands,2020,CO2,21.0,4.0,34.0,19.0,3.0,40.0,122.0,Transport
+S12000028,Scotland,Scotland,South Ayrshire,2020,CO2,39.0,41.0,181.0,116.0,13.0,175.0,565.0,Domestic
+S12000029,Scotland,Scotland,South Lanarkshire,2020,CO2,49.0,81.0,490.0,135.0,46.0,537.0,1338.0,Transport
+S12000030,Scotland,Scotland,Stirling,2020,CO2,28.0,27.0,145.0,138.0,16.0,205.0,559.0,Transport
+S12000033,Scotland,Scotland,Aberdeen City,2020,CO2,8.0,117.0,323.0,177.0,103.0,282.0,1009.0,Domestic
+S12000034,Scotland,Scotland,Aberdeenshire,2020,CO2,167.0,66.0,467.0,160.0,23.0,518.0,1401.0,Transport
+S12000035,Scotland,Scotland,Argyll and Bute,2020,CO2,46.0,32.0,145.0,61.0,15.0,146.0,444.0,Transport
+S12000036,Scotland,Scotland,City of Edinburgh,2020,CO2,8.0,240.0,678.0,163.0,159.0,587.0,1836.0,Domestic
+S12000038,Scotland,Scotland,Renfrewshire,2020,CO2,11.0,72.0,248.0,76.0,34.0,274.0,716.0,Transport
+S12000039,Scotland,Scotland,West Dunbartonshire,2020,CO2,4.0,22.0,118.0,31.0,34.0,111.0,320.0,Domestic
+S12000040,Scotland,Scotland,West Lothian,2020,CO2,14.0,55.0,259.0,139.0,40.0,321.0,828.0,Transport
+S12000041,Scotland,Scotland,Angus,2020,CO2,44.0,29.0,187.0,88.0,16.0,196.0,561.0,Transport
+S12000042,Scotland,Scotland,Dundee City,2020,CO2,1.0,120.0,193.0,40.0,65.0,169.0,588.0,Domestic
+S12000045,Scotland,Scotland,East Dunbartonshire,2020,CO2,4.0,29.0,175.0,20.0,14.0,103.0,346.0,Domestic
+S12000047,Scotland,Scotland,Fife,2020,CO2,50.0,80.0,563.0,1214.0,44.0,501.0,2451.0,Industry
+S12000048,Scotland,Scotland,Perth and Kinross,2020,CO2,84.0,49.0,255.0,46.0,35.0,431.0,900.0,Transport
+S12000049,Scotland,Scotland,Glasgow City,2020,CO2,3.0,279.0,715.0,248.0,214.0,651.0,2110.0,Domestic
+S12000050,Scotland,Scotland,North Lanarkshire,2020,CO2,11.0,105.0,474.0,226.0,56.0,644.0,1515.0,Transport
+W06000001,Wales,Wales,Isle of Anglesey,2020,CO2,39.0,19.0,124.0,31.0,11.0,108.0,332.0,Domestic
+W06000002,Wales,Wales,Gwynedd,2020,CO2,52.0,27.0,199.0,64.0,25.0,204.0,571.0,Transport
+W06000003,Wales,Wales,Conwy,2020,CO2,22.0,29.0,179.0,23.0,16.0,206.0,476.0,Transport
+W06000004,Wales,Wales,Denbighshire,2020,CO2,27.0,19.0,151.0,48.0,23.0,146.0,414.0,Domestic
+W06000005,Wales,Wales,Flintshire,2020,CO2,21.0,63.0,237.0,835.0,9.0,305.0,1470.0,Industry
+W06000006,Wales,Wales,Wrexham,2020,CO2,76.0,76.0,190.0,252.0,16.0,198.0,808.0,Industry
+W06000008,Wales,Wales,Ceredigion,2020,CO2,76.0,14.0,139.0,36.0,9.0,126.0,400.0,Domestic
+W06000009,Wales,Wales,Pembrokeshire,2020,CO2,86.0,64.0,217.0,126.0,6.0,185.0,684.0,Domestic
+W06000010,Wales,Wales,Carmarthenshire,2020,CO2,121.0,28.0,329.0,170.0,21.0,337.0,1006.0,Transport
+W06000011,Wales,Wales,Swansea,2020,CO2,13.0,70.0,346.0,118.0,60.0,333.0,938.0,Domestic
+W06000012,Wales,Wales,Neath Port Talbot,2020,CO2,8.0,31.0,208.0,6197.0,17.0,228.0,6689.0,Industry
+W06000013,Wales,Wales,Bridgend,2020,CO2,7.0,31.0,203.0,228.0,16.0,251.0,735.0,Transport
+W06000014,Wales,Wales,Vale of Glamorgan,2020,CO2,17.0,24.0,190.0,577.0,26.0,204.0,1039.0,Industry
+W06000015,Wales,Wales,Cardiff,2020,CO2,3.0,98.0,443.0,266.0,84.0,597.0,1491.0,Transport
+W06000016,Wales,Wales,Rhondda Cynon Taf,2020,CO2,9.0,60.0,347.0,126.0,35.0,368.0,944.0,Transport
+W06000018,Wales,Wales,Caerphilly,2020,CO2,7.0,26.0,257.0,129.0,13.0,220.0,651.0,Domestic
+W06000019,Wales,Wales,Blaenau Gwent,2020,CO2,1.0,10.0,106.0,84.0,6.0,70.0,276.0,Domestic
+W06000020,Wales,Wales,Torfaen,2020,CO2,2.0,34.0,128.0,87.0,15.0,126.0,392.0,Domestic
+W06000021,Wales,Wales,Monmouthshire,2020,CO2,38.0,43.0,151.0,60.0,10.0,260.0,562.0,Transport
+W06000022,Wales,Wales,Newport,2020,CO2,7.0,53.0,204.0,257.0,16.0,360.0,897.0,Transport
+W06000023,Wales,Wales,Powys,2020,CO2,134.0,21.0,243.0,82.0,11.0,273.0,765.0,Transport
+W06000024,Wales,Wales,Merthyr Tydfil,2020,CO2,2.0,13.0,89.0,51.0,9.0,68.0,232.0,Domestic
